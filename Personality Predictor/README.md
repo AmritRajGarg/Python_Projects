@@ -60,11 +60,9 @@ This project expands on the Big Five model with additional traits to offer a mor
 
 ---
 
-### 🧪 **Testing**
-
-For quick evaluation, you can use the pre-written text samples in:
-📄 **`📄 [Test_samples.txt](https://github.com/AmritRajGarg/Python_Projects/blob/main/Personality%20Predictor/Test_samples.txt)
-`**
+### 🧪 Testing
+For quick evaluation, you can use the pre-written text samples in:  
+📄 [Test_samples.txt](https://github.com/AmritRajGarg/Python_Projects/blob/main/Personality%20Predictor/Test_samples.txt)  
 Each sample sentence triggers one or more personality traits to help verify the analysis.
 
 ---
