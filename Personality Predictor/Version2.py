@@ -100,7 +100,7 @@ class PersonalityPredictorApp:
         display = "".join(f"{trait:<25s} | {pct:5.1f}% | {'█' * int(pct / 2.5)}\n" for trait, pct in sorted(results.items(), key=lambda x: x[1], reverse=True))
         top_trait = max(results, key=results.get)
         summary = f"\nDominant Trait: {top_trait}\n(This result is a prototype prediction.)"
-        self.results_text.config(text=display + summary + "\n\nExtended version - includes Emotional Intelligence, Leadership, and Creativity.")
+        self.results_text.config(text=display + summary + "\n\nExtended version.")
 
 if __name__ == "__main__":
     root = tk.Tk()
