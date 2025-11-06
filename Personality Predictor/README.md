@@ -44,6 +44,8 @@ This project expands on the Big Five model with additional traits to offer a mor
 
 ---
 
+
+
 ## ▶️ How to Run
 
 1. Open VS Code.
@@ -55,4 +57,16 @@ This project expands on the Big Five model with additional traits to offer a mor
    python ai_personality_predictor.py
    ```
 5. Type or paste text in the input box → click Analyze → view results.
+
+---
+
+🧪 Testing
+
+For quick evaluation, you can use the pre-written text samples in:
+📄 test_samples.txt
+Each sample sentence triggers one or more personality traits to help verify the analysis.
+
+📘 Note
+
+This project is a prototype-level implementation for educational purposes and does not reflect a scientific psychological assessment.
 
