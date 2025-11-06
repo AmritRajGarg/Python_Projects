@@ -60,13 +60,30 @@ This project expands on the Big Five model with additional traits to offer a mor
 
 ---
 
-🧪 Testing
+### 🧪 **Testing**
 
 For quick evaluation, you can use the pre-written text samples in:
-📄 test_samples.txt
+📄 **`test_samples.txt`**
 Each sample sentence triggers one or more personality traits to help verify the analysis.
 
-📘 Note
+---
 
-This project is a prototype-level implementation for educational purposes and does not reflect a scientific psychological assessment.
+### 📘 **Note**
+
+This project is a **prototype-level implementation** for educational purposes and does not reflect a scientific psychological assessment.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
